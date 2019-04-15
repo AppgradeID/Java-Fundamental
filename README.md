@@ -7,7 +7,7 @@ Repository ini berisi source code yang dipergunakan sebagai materi pembelajaran 
 - Java Overview
 - Data & Algorithm
 - Input/Output
-- Object Oriented Paradigmn
+- Object Oriented Paradigm
 - Database Access
 - Networking
 - Integration, Reflection
