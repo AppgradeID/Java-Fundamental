@@ -1,5 +1,5 @@
-# Materi Kursus Java Fundamental
-
+# Java Fundamental
+## Materi Kursus
 Repository ini berisi source code yang dipergunakan sebagai materi pembelajaran kursus Java Fundamental pada AppGradeID.
 
 ## Silabus
